@@ -1,4 +1,4 @@
-#NoteIt
+###NoteIt
 ## A free self hosted notes manager
 
 Features include:
@@ -6,4 +6,4 @@ Features include:
 - Stores notes locally
 - No database required
 
-///Download Now!
+##Download Now!
